@@ -13,7 +13,7 @@
           },
           {
             "key": "Access-Control-Expose-Headers",
-            "value": "*"
+            "value": "Cross-Origin-Embedder-Policy, Cross-Origin-Opener-Policy, Cross-Origin-Resource-Policy"
           },
           {
             "key": "Access-Control-Allow-Origin",
