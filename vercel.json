@@ -12,6 +12,10 @@
             "value": "GET, HEAD"
           },
           {
+            "key": "Access-Control-Expose-Headers",
+            "value": "*"
+          },
+          {
             "key": "Access-Control-Allow-Origin",
             "value": "*"
           },
