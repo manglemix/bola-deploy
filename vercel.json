@@ -4,7 +4,7 @@
         "source": "/(.*)",
         "headers": [
           {
-            "key": "Access-Control-Request-Headers",
+            "key": "Access-Control-Allow-Headers",
             "value": "*"
           },
           {
@@ -13,7 +13,7 @@
           },
           {
             "key": "Access-Control-Expose-Headers",
-            "value": "Cross-Origin-Embedder-Policy, Cross-Origin-Opener-Policy, Cross-Origin-Resource-Policy"
+            "value": "*"
           },
           {
             "key": "Access-Control-Allow-Origin",
